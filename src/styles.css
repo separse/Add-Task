@@ -1,0 +1,24 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #2e9ce6;
+  padding: 3em;
+  font-family: initial 22px;
+  color: #fff;
+}
+
+ul {
+  list-style-type: none;
+  margin-bottom: 2em;
+  padding: 0;
+}
+
+ul li {
+  display: inline;
+  margin-right: 30px;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  font-size: 24px;
+}
